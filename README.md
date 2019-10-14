@@ -7,7 +7,7 @@
 
 # แหล่งอ้างอิง
 
-- [JavaScript: Understanding the Weird Parts](https://www.udemy.com/share/101XjUBUMZeFhWQHQ=/) ของ Anthony Alicea
+- [JavaScript: Understanding the Weird Parts](https://www.udemy.com/share/101XjUBUMZeFhWQHQ=/) โดย Anthony Alicea
 
 ---
 
